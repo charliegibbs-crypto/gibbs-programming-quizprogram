@@ -1,0 +1,106 @@
+{
+  "quiz": [
+  {
+    "topic": "Number and Algebra",
+    "question": "A hoodie costs $40 and is increased by 10%. What is the new price?",
+    "answer": "44"
+  },
+  {
+    "topic": "Number and Algebra",
+    "question": "Simplify the ratio 4:6",
+    "answer": "2:3"
+  },
+  {
+    "topic": "Measurement",
+    "question": "A rectangle is 6 cm by 3 cm. What is the area?",
+    "answer": "18"
+  },
+  {
+    "topic": "Measurement",
+    "question": "How many millilitres are in 1.5 litres?",
+    "answer": "1500"
+  },
+  {
+    "topic": "Statistics and Data",
+    "question": "Find the mean of 2, 4, 6, 8",
+    "answer": "5"
+  },
+  {
+    "topic": "Statistics and Data",
+    "question": "A graph shows 3 apples, 2 oranges, 1 banana. How many items total?",
+    "answer": "6"
+  },
+  {
+    "topic": "Financial Literacy",
+    "question": "You earn $12 per hour for 4 hours. How much do you earn?",
+    "answer": "48"
+  },
+  {
+    "topic": "Financial Literacy",
+    "question": "A $30 item is reduced by $5. What is the new price?",
+    "answer": "25"
+  },
+  {
+    "topic": "Geometry",
+    "question": "A triangle has angles 60° and 70°. What is the third angle?",
+    "answer": "50"
+  },
+  {
+    "topic": "Reasoning",
+    "question": "If something increases by 10% and then decreases by 10%, is it exactly the same? (yes/no)",
+    "answer": "no"
+  }
+],
+  "exam": [
+    {
+      "topic": "Number and Algebra",
+      "question": "A jacket costs $80 and increases by 15%. What is the new price?",
+      "answer": "92"
+    },
+    {
+      "topic": "Number and Algebra",
+      "question": "Simplify the ratio 12:18",
+      "answer": "2:3"
+    },
+    {
+      "topic": "Measurement",
+      "question": "A rectangle is 8 cm by 5 cm. What is the area?",
+      "answer": "40"
+    },
+    {
+      "topic": "Measurement",
+      "question": "Convert 2.5 L into millilitres",
+      "answer": "2500"
+    },
+    {
+      "topic": "Statistics",
+      "question": "Find the mean of 4, 6, 8, 10, 12",
+      "answer": "8"
+    },
+    {
+      "topic": "Financial Literacy",
+      "question": "Earn $18/hour for 6 hours. Total pay?",
+      "answer": "108"
+    },
+    {
+      "topic": "Financial Literacy",
+      "question": "A $50 item is discounted by $10. New price?",
+      "answer": "40"
+    },
+    {
+      "topic": "Geometry",
+      "question": "Triangle angles are 50° and 60°. Third angle?",
+      "answer": "70"
+    },
+    {
+      "topic": "Geometry",
+      "question": "What is a 90° turn called?",
+      "answer": "rotation"
+    },
+    {
+      "topic": "Reasoning",
+      "question": "If prices go up 10% then down 10%, is it the same price? (yes/no)",
+      "answer": "no"
+    }
+  ]
+}
