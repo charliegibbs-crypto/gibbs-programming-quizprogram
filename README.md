@@ -6,3 +6,6 @@ Year 10 Numeracy revision program with quiz and exam modes, designed to help stu
 The following Gantt chart outlines the development timeline for the project:
 
 ![Gantt Chart](gantt-chart.png.png)
+
+## Updated Gantt chart (1/05/2026)
+
