@@ -9,4 +9,3 @@ The following Gantt chart outlines the development timeline for the project:
 
 ## Updated Gantt chart (1/05/2026)
 
-![Updated Chart](Online Gantt 20260501.gantt)
