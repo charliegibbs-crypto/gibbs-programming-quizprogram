@@ -1,4 +1,4 @@
-# This file is the main engine of my program. It will work with all of my other files depending on which mode is selected (exam or quiz) 
+# This file is the main engine of my program. It will work with all of my other files depending on which mode is selected (exam or quiz)
 # Charlie Gibbs
 # Dated 27/04/2026
 
@@ -23,6 +23,9 @@ def show_menu(root):
     tk.Button(root, text="Exam Mode", width=20,
               command=lambda: start_exam(root)).pack(pady=10)
 
+    tk.Button(root, text="Help", width=20,
+              command=lambda: show_help(root)).pack(pady=10)
+
 
 def start_quiz(root):
     clear(root)
@@ -33,6 +36,19 @@ def start_exam(root):
     clear(root)
     ExamGUI(root, show_menu)
 
+def show_help(root):
+    clear(root)
+
+    try:
+        with open("data/help.txt", "r") as file:
+            text = file.read()
+    except FileNotFoundError:
+        text = "Help file not found."
+
+    tk.Label(root, text=text, justify="left", wraplength=350).pack(pady=20)
+
+    tk.Button(root, text="Back",
+              command=lambda: show_menu(root)).pack(pady=10)
 
 def run():
     root = tk.Tk()
