@@ -42,13 +42,13 @@
   },
   {
     "topic": "Geometry",
-    "question": "A triangle has angles 60° and 70°. What is the third angle?",
+    "question": "A triangle has angles 60 and 70. What is the third angle?",
     "answer": "50"
   },
   {
     "topic": "Reasoning",
-    "question": "If something increases by 10% and then decreases by 10%, is it exactly the same? (yes/no)",
-    "answer": "no"
+    "question": "If something increases by 10% and then decreases by 10%, is it exactly the same? (y/n)",
+    "answer": "n"
   }
 ],
   "exam": [
@@ -69,7 +69,7 @@
     },
     {
       "topic": "Measurement",
-      "question": "Convert 2.5 L into millilitres",
+      "question": "Convert 2.5L into millilitres",
       "answer": "2500"
     },
     {
@@ -89,18 +89,18 @@
     },
     {
       "topic": "Geometry",
-      "question": "Triangle angles are 50° and 60°. Third angle?",
+      "question": "Triangle angles are 50 and 60. Third angle?",
       "answer": "70"
     },
     {
       "topic": "Geometry",
-      "question": "What is a 90° turn called?",
-      "answer": "rotation"
+      "question": "Is a 90 degree turn a right angle? (y/n)",
+      "answer": "y"
     },
     {
       "topic": "Reasoning",
-      "question": "If prices go up 10% then down 10%, is it the same price? (yes/no)",
-      "answer": "no"
+      "question": "If prices go up 10% then down 10%, is it the same price? (y/n)",
+      "answer": "n"
     }
   ]
 }
