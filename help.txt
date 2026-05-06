@@ -1,1 +1,21 @@
+Program Guide
 
+Quiz Mode:
+- Practice questions
+- Instant feedback (correct/wrong)
+- Helps learning
+
+Exam Mode:
+- Timed assessment
+- No feedback during test
+- Simulates real exam conditions
+
+How to Use:
+1. Select a mode
+2. Enter your answer
+3. Click Submit
+4. Don't use measurements, use numbers only
+
+Requirements:
+- Answer all questions
+- Work within time limit (exam mode)
