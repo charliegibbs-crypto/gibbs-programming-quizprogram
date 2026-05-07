@@ -9,7 +9,7 @@ class QuizGUI:
         self.back = back
 
         data = load_questions()
-        self.questions = random.sample(data["quiz"], min(10, len(data["quiz"])))
+        self.questions = random.sample(data["quiz"], min(5, len(data["quiz"])))
 
         self.index = 0
         self.score = 0
